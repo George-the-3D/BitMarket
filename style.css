@@ -11,6 +11,11 @@ header {
     margin-bottom: 20px;
 }
 
+header img{
+    width: 50px;
+
+}
+
 .button {
     background-color: #36bbce;
     color: black;
@@ -71,6 +76,11 @@ h1 {
     text-align: center;
     padding: 10px 75px 10px 75px;
     display: block;
+}
+
+.article-but:hover{
+    background-color: red
+    
 }
 
 .full-image {
