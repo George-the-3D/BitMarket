@@ -26,6 +26,12 @@ header img{
     display: block;
 }
 
+a:hover{
+	color: red;
+
+
+}
+
 nav {
     border-top: 5px solid white;
     border-bottom: 5px solid white;
@@ -87,9 +93,29 @@ h1 {
     margin: 100px 0px 100px 0px;
 }
 
-.social {
+.social1, .social2 {
     display: block;
     width: 30px;
+    margin-left:30px;
+}
+
+.social2{
+    margin-top:30px;
+}
+
+.facebook p{
+    color: white;
+    font-size: 25px;
+}
+
+.facebook{
+    background-color: #36bbce;
+    width: 150px;
+    padding:5px;
+    position:fixed;
+    right:0px;
+    bottom:0px;
+
 }
 
 footer {
